@@ -1,0 +1,1 @@
+add isGrid props as boolean
